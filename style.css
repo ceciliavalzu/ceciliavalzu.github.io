@@ -1,14 +1,15 @@
-.estilo-btn{
-    background-color: #ac0775;/*color de fondo*/
-    color: white;/*texto blanco*/
-    padding: 10px 12px;/*espacio interno del botón*/
-    font-size: 14px;/*tamaño de fuente*/
-    border: none;/*sin bordes*/
-    border-radius: 8px;
-    cursor: pointer;/*manito cuand pasa el mouse*/
-    transition: background-color 0.3;
- }
- .estilo-btn:hover{
-    background-color:#7a4f6c ;
-    box-shadow: #4d464a;
- }
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.bg-primary {
+    background-color: #68376d !important;
+}
+
+.progress {
+    background-color: rgba(219, 179, 215, 0.2);
+}
+
+.progress-bar {
+    background-color: aliceblue;
+}
